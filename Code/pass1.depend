@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1385772449 source:e:\sony ericsson files\engineering\5th term\system programming\project\pass1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<iomanip>
+
+1385798544 source:e:\sony ericsson files\engineering\5th term\system programming\project\pass1\assemblerfly.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<iomanip>
+
+1385798749 source:e:\sony ericsson files\engineering\5th term\system programming\project\pass 1\pass1\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<iomanip>
+
+1385800502 source:e:\sony ericsson files\engineering\5th term\system programming\project\pass 1\pass1\fly2.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<iomanip>
+
+1385801587 source:e:\sony ericsson files\engineering\5th term\system programming\project\pass 1\pass1\fly2 (1).cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<iomanip>
+
+1385801834 source:e:\sony ericsson files\engineering\5th term\system programming\project\pass 1\pass1\fly.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string>
+	<vector>
+	<map>
+	<iomanip>
+

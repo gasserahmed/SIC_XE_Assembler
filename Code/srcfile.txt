@@ -1,0 +1,19 @@
+.this a comment
+    START 0000
+label LDA 100
+  STA TEMP
+LDS 9000
+LDA 34
+LDT X1
+LDD 9
+ASFSA 4
+LDGH 5
+LDA 3
+LDA X2
+LDA 7
+LDS 8
+LDT 10
+X1 WORD 1
+X2   RESW 3
+TEMP     BYTE 2   
+end

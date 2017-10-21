@@ -1,0 +1,45 @@
+	----------------------------------
+		  Program List
+		  ------------
+Address      Label    OpCode  Operand
+-------      -----    ------  -------
+	    .this a comment
+00000                 START   0000
+00000        label    LDA     100
+00003                 STA     TEMP
+00006                 LDS     9000
+00009                 LDA     34
+0000C                 LDT     X1
+ *** Invalid operation code
+0000F                 LDD     9
+ *** Invalid operation code
+0000F                 ASFSA   4
+ *** Invalid operation code
+0000F                 LDGH    5
+0000F                 LDA     3
+00012                 LDA     X2
+00015                 LDA     7
+00018                 LDS     8
+0001B                 LDT     10
+0001E        X1       WORD    1
+00021        X2       RESW    3
+*** Invalid operand
+0002A        TEMP     BYTE    2
+0002A                 end     
+
+	----------------------------------
+		  Symbol Table
+		  ------------
+		Label	   Address
+		-----	   -------
+		LABEL      00000
+		TEMP       0002A
+		X1         0001E
+		X2         00021
+	----------------------------------
+--- There is/are 4 line(s) having an error ---
+	---------------------------------
+
+
+--- U n S u c c e s s f u l  A s s e m b l y ---
+	---------------------------------
